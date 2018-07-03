@@ -27,6 +27,8 @@ public class Main {
 		
 		//this연습
 		practice3.display(); //"지역변수 name"[지역변수] , park[인스턴스변수] 두가지가 출력.
+		
+		System.out.println("작업을 더함");
 		                    
 				
 	}
